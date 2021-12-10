@@ -1,0 +1,10 @@
+{
+  "id": "three",
+  "ssh_keys": [],
+  "groups": [
+    "three",
+    "sftp"
+  ],
+  "shell": "/bin/false",
+  "password": "my-extreme-password-2"
+}

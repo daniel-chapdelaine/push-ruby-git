@@ -1,0 +1,12 @@
+{
+  "id": "four",
+  "ssh_keys": [
+    "ssh-rsa one",
+    "ssh-rsa two"
+  ],
+  "groups": [
+    "four",
+    "sftp"
+  ],
+  "shell": "/bin/false"
+}
