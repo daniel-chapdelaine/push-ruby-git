@@ -1,0 +1,12 @@
+{
+  "id": "eleven",
+  "ssh_keys": null,
+  "groups": [
+    "verbasftp",
+    "withpassword",
+    "sftp",
+    "eleven"
+  ],
+  "shell": "/bin/false",
+  "password": "79322b2f813ae69548c62a55c4801270"
+}
