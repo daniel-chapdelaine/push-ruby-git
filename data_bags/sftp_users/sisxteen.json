@@ -1,0 +1,15 @@
+{
+  "id": "sisxteen",
+  "ssh_keys": null,
+  "groups": [
+    "withpassword",
+    "sftp",
+    "sisxteen"
+  ],
+  "shell": "/bin/false",
+  "password": [
+    "$1$XvE0uL4/$Czal.TAgdAWXq/Aloow6L1\n",
+    "",
+    "pid 41704 exit 0"
+  ]
+}
