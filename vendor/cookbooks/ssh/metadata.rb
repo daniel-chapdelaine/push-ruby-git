@@ -1,6 +1,6 @@
 maintainer       "Jeff Godblum"
 maintainer_email "god@blum.com"
-version          "0.2.383"
+version          "0.2.384"
 name             "ssh"
 
 %w{ ubuntu debian }.each do |os|
