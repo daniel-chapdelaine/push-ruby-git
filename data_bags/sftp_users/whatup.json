@@ -1,0 +1,11 @@
+{
+  "id": "whatup",
+  "ssh_keys": null,
+  "groups": [
+    "sftp",
+    "whatup",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "password": "$1$gvFJykMI$EOV4DhweIYjAS3gRxbcm6/\n"
+}
