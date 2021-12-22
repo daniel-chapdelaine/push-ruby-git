@@ -1,0 +1,11 @@
+{
+  "id": "ernf",
+  "ssh_keys": null,
+  "groups": [
+    "sftp",
+    "ernf",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "password": "$1$8w2XKWUn$gs5XF3BYa4FrRZtIorDoM1\n"
+}
