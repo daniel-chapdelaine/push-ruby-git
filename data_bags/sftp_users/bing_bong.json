@@ -1,0 +1,11 @@
+{
+  "id": "bing_bong",
+  "ssh_keys": null,
+  "groups": [
+    "sftp",
+    "bing_bong",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "password": "$1$L6i7v5Xi$fLOsxviZecE.YcZYpC8yY0\n"
+}
