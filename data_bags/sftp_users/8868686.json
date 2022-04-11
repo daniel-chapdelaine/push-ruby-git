@@ -6,5 +6,6 @@
     "withpassword"
   ],
   "shell": "/bin/false",
-  "password": "$1$Zx3BzI3.$pM6ePAH9ntNMa9nQuiHrl1\n"
+  "password": "$1$Zx3BzI3.$pM6ePAH9ntNMa9nQuiHrl1\n",
+  "action": "remove"
 }
