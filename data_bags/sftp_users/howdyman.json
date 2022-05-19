@@ -5,8 +5,9 @@
   ],
   "groups": [
     "sftp",
-    "howdyman"
+    "howdyman",
+    "withpassword"
   ],
   "shell": "/bin/false",
-  "password": ""
+  "password": "$1$wXkskdqF$wWlPUJsSX3xsy7BGqUzgr0"
 }
