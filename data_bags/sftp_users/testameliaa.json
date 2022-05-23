@@ -3,7 +3,6 @@
   "shell": "/bin/false",
   "groups": [
     "testameliaa",
-    "verbasftp",
     "withpassword"
   ],
   "ssh_keys": [
