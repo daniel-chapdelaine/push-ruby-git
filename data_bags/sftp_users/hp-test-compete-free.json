@@ -5,5 +5,6 @@
     "sftp",
     "hp-test-compete-free"
   ],
-  "password": ""
+  "password": "",
+  "action": "remove"
 }
