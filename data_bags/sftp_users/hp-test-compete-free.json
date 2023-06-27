@@ -1,0 +1,9 @@
+{
+  "id": "hp-test-compete-free",
+  "shell": "/bin/false",
+  "groups": [
+    "sftp",
+    "hp-test-compete-free"
+  ],
+  "password": ""
+}
