@@ -1,0 +1,12 @@
+{
+  "id": "jed_test_2026_2_9",
+  "shell": "/bin/false",
+  "groups": [
+    "jed_test_2026_2_9",
+    "verbasftp"
+  ],
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDy07v4DyYz1OYImsXrrZS2+Q0kn5+WktzNQYuIMR940k5LnEoMlyCRLEai3HhW24EYQNIHcrEvY4xglHxgS9ze19dfBMZHsfubsBYFYskFihWhTlSQSACGaG570Gh+llZSHHBn/7Ei46AvM+EoXongMoVwilY8TXpX2dRdAppP93Afaz0oJ2jjb5BXlrf/hKCHD9G0W+YZPexsBuwrWjS9jVGyC1AnLOY6/RzXis5wjsrk07N9NJMu6aiaRVhRnzQAnM6U6xr9xP7BcbTWJGh/cYiFRzJuFb21z7zsjmerYwME22fQkAeZCRyhD7pyOdudP/xKN4Pf5hjhwMt8HnMjTivTawA/DrWK6+MhAbaMVVCxVfUQ16YWtUXSYfs+0S349N2QMlBvB3cInVI9pzU1/KvUmH2ptjQnLbFPg61JV6EPVM3TNkAo++w7quR34n7q5tqG4cu34Vll9eW2faWPz2kv5f/Pr8UPSEq8J2c4L7IiNovPN88wijNDYIYoTG8= jed@MacBook-Pro.local"
+  ],
+  "password": ""
+}
